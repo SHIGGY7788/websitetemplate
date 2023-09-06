@@ -1,0 +1,63 @@
+body {
+    background-image: linear-gradient(to bottom right, #24ff0c, #0004ff);
+    background-attachment: fixed;
+}
+h1 {
+    color: black;
+    font-weight: bold;
+    text-align: center;
+
+}
+h2 {
+    position: absolute;
+    color: black;
+    font-weight: bold;
+    font-family: "Malgun Gothic";
+    background: white;
+    left: 85%;
+    margin-top: -75px;
+    margin-right: 25px;
+    font-size: medium;
+    border: solid black;
+    border-radius: 1px;
+}
+
+.noselect {
+    -webkit-touch-callout: none; /* iOS Safari */
+    -webkit-user-select: none; /* Safari */
+    -khtml-user-select: none; /* Konqueror HTML */
+    -moz-user-select: none; /* Old versions of Firefox */
+    -ms-user-select: none; /* Internet Explorer/Edge */
+    user-select: none; /* Non-prefixed version, currently supported by Chrome, Edge, Opera and Firefox */
+}
+
+ul {
+    position: absolute;
+    font-weight: bold;
+    list-style-type: none;
+    border: solid black;
+    left: 0;
+    top: -20px;
+    color: black;
+    background: white;
+    margin-left: 25px;
+    margin-top: 25px;
+    padding: 10px;
+}
+
+a:link {
+    text-decoration: none;
+    color: black;
+}
+a:visited {
+    text-decoration: none;
+    color: black;
+}
+a:hover {
+    text-decoration: underline;
+    color: black;
+}
+a:active {
+    text-decoration: underline;
+    color: black;
+}

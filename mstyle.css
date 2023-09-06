@@ -1,0 +1,43 @@
+body {
+    background-image: linear-gradient(to bottom right, #0cf5ff, red);
+    background-attachment: fixed;
+}
+h1 {
+    text-align: center;
+    color: black;
+    font-weight: bold;
+}
+
+ul {
+    position: absolute;
+    font-weight: bold;
+    list-style-type: none;
+    border: solid black;
+    left: 0;
+    top: -20px;
+    color: black;
+    background: white;
+    margin-left: 25px;
+    margin-top: 25px;
+    padding: 10px;
+}
+
+
+
+
+a:link {
+    text-decoration: none;
+    color: black;
+}
+a:visited {
+    text-decoration: none;
+    color: black;
+}
+a:hover {
+    text-decoration: underline;
+    color: black;
+}
+a:active {
+    text-decoration: underline;
+    color: black;
+}
