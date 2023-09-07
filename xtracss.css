@@ -1,0 +1,112 @@
+
+
+body {
+    background-color: rgb(40, 40, 40);
+}
+
+ul {
+    position: absolute;
+    font-weight: bold;
+    list-style-type: none;
+    left: 0;
+    top: 80%;
+    color: black;
+    background: white;
+    margin-left: 25px;
+    margin-top: 25px;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 2px 35px rgba(0,0,0,3);
+}
+
+h1 {
+    position: absolute;
+    height: 50px;
+    width: 200px;
+    left: 70%;
+    text-shadow: 1px 1px 2px red, 0 0 1em white, 0 0 0.2em white;
+}
+
+@keyframes rotate{
+    100%{
+        transform: rotate(360deg);
+    }
+}
+@keyframes negrotate {
+    100%{
+        transform: rotate(-360deg);
+    }
+}
+
+.triangleUP {
+    position: absolute;
+    width: 0;
+    height: 0;
+    border-left: 15px solid transparent;
+    border-right: 15px solid transparent;
+    border-bottom: 25px solid red;
+    left: 91%;
+    top: 2%;
+    animation-name: rotate;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+}
+
+.triangleRIGHT {
+    position: absolute;
+    width: 0;
+    height: 0;
+    border-top: 15px solid transparent;
+    border-left: 25px solid red;
+    border-bottom: 15px solid transparent;
+    left: 92%;
+    top: 3%;
+    animation-name: negrotate;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+}
+
+.triangleDOWN {
+    position: absolute;
+    width: 0;
+    height: 0;
+    border-left: 15px solid transparent;
+    border-right: 15px solid transparent;
+    border-top: 25px solid red;
+    left: 91%;
+    top: 4.5%;
+    animation-name: rotate;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+}
+
+.triangleLEFT {
+    position: absolute;
+    width: 0;
+    height: 0;
+    border-top: 15px solid transparent;
+    border-right: 25px solid red;
+    border-bottom: 15px solid transparent;
+    left: 90.5%;
+    top: 3%;
+    animation-name: negrotate;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+}
+
+a:link {
+    text-decoration: none;
+    color: black;
+}
+a:visited {
+    text-decoration: none;
+    color: black;
+}
+a:hover {
+    text-decoration: underline;
+    color: black;
+}
+a:active {
+    text-decoration: underline;
+    color: black;
+}

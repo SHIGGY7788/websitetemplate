@@ -12,7 +12,6 @@ ul {
     position: absolute;
     font-weight: bold;
     list-style-type: none;
-    border: solid black;
     left: 0;
     top: -20px;
     color: black;
@@ -20,10 +19,68 @@ ul {
     margin-left: 25px;
     margin-top: 25px;
     padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 2px 35px rgba(0,0,0,3);
 }
 
 
 
+
+
+.target {
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    margin: auto;
+    bottom: 0;
+    top: 80%;
+    left: -85%;
+    right: 0;
+    box-shadow: 0 20px 35px rgba(0,0,0,3);
+    border-radius: 5px;
+    overflow: hidden;
+    background-color: dimgray;
+}
+
+@keyframes rotate{
+    100%{
+        transform: rotate(-360deg);
+    }
+}
+
+.target:before{
+    content: "";
+    background-image: conic-gradient(
+            #7DF9FF 20deg,
+    transparent 120deg
+    );
+    height: 150%;
+    width: 150%;
+    position: absolute;
+    left: -25%;
+    top: -25%;
+    animation-name: rotate;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+}
+
+
+
+.target:after{
+    content: "Random Background";
+    height: 94%;
+    width: 94%;
+    position: absolute;
+    background-color: dimgray;
+    border-radius: 5px;
+    top: 3%;
+    left: 3%;
+    color: #7DF9FF;
+    font-weight: bold;
+    display: grid;
+    place-items: center;
+}
 
 a:link {
     text-decoration: none;
