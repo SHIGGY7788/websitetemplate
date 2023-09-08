@@ -5,7 +5,7 @@ basic HTML webside with basic gradients and navigation
 - Reworked index background to make it slightly more than just a gradient
 - Made random gradient button into "Spicy Background" which increases the amount of gradients present in the background
 - Fully reworked "xtrastyle" page with a midnight purple ish background and enhances navigation menu with date + time
-  
+- Started working on adding a wrapper (only on xtrastyle) to have elements maintaine their place on the page
 -----------
 - 9/7/23
 - Refined navigation list
