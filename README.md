@@ -21,8 +21,11 @@ basic HTML webside with basic gradients and navigation
 
 
 
-![image](https://github.com/trucks7788/websitetemplate/assets/40186280/53ff14f4-b8aa-4d6d-b399-f94b1a4115a5)
-![image](https://github.com/trucks7788/websitetemplate/assets/40186280/76c3fbdb-2c68-4bd7-bfe2-b76bfbf89bae)
-![image](https://github.com/trucks7788/websitetemplate/assets/40186280/6f877e54-2156-4c0b-934f-89bb1d908c31)
+![image](https://github.com/SHIGGY7788/websitetemplate/assets/40186280/d6a538cc-824d-42cc-8072-44ee8a0212ca)
+
+![image](https://github.com/SHIGGY7788/websitetemplate/assets/40186280/fe213882-4301-4fd4-b6fd-81b361bed588)
+
+![image](https://github.com/SHIGGY7788/websitetemplate/assets/40186280/db3f66e6-e3e8-4003-befc-8f8186036132)
+
 
 
