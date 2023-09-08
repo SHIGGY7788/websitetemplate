@@ -1,12 +1,18 @@
 # websitetemplate
 basic HTML webside with basic gradients and navigation
 
+- 9/8/23
+- Reworked index background to make it slightly more than just a gradient
+- Made random gradient button into "Spicy Background" which increases the amount of gradients present in the background
+- Fully reworked "xtrastyle" page with a midnight purple ish background and enhances navigation menu with date + time
+  
+-----------
 - 9/7/23
 - Refined navigation list
 - modified home page with random color gradients
 - added new xtrastyle page with some textshadow on the title and animated triangles
 
-
+-----------
 - 9/6/23
 - Changed some gradients
 - Refined the file format
