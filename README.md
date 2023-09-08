@@ -21,7 +21,7 @@ basic HTML webside with basic gradients and navigation
 
 
 
-![image](https://github.com/SHIGGY7788/websitetemplate/assets/40186280/d6a538cc-824d-42cc-8072-44ee8a0212ca)
+![image](https://github.com/SHIGGY7788/websitetemplate/assets/40186280/ec38baa5-7226-4dfc-b28c-991dd9f1249f)
 
 ![image](https://github.com/SHIGGY7788/websitetemplate/assets/40186280/fe213882-4301-4fd4-b6fd-81b361bed588)
 
