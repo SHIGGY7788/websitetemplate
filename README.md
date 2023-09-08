@@ -1,6 +1,6 @@
 # websitetemplate
-basic HTML webside with basic gradients and navigation
-
+Basic website template that is being worked on
+----------
 - 9/8/23
 - Reworked index background to make it slightly more than just a gradient
 - Made random gradient button into "Spicy Background" which increases the amount of gradients present in the background
