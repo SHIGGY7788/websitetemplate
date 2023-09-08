@@ -9,5 +9,9 @@ function getRandomColor() {
 
 function changeGradient() {
     var bggrad = document.getElementById("body");
-    bggrad.style.backgroundImage = `linear-gradient(to bottom right, ${getRandomColor()}, ${getRandomColor()})`;
+    bggrad.style.backgroundImage = `linear-gradient(to bottom right, ${getRandomColor()},
+     ${getRandomColor()},
+      ${getRandomColor()},
+      ${getRandomColor()},
+        ${getRandomColor()})`;
 }
